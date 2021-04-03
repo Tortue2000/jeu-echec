@@ -3,7 +3,6 @@
     """
 
 from echec import echec, echecError
-from echecX import echecX
 
 if "main" == "main":
     pass
